@@ -13,7 +13,6 @@
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_ru/header__lang-link_ru.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
-@import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__numbers/intro__numbers.css);
 @import url(../blocks/intro/__text/intro__text.css);
@@ -43,3 +42,4 @@
 @import url(../blocks/content/__section/_tablet/content__section_tablet_wide.css);
 @import url(../blocks/places/places.css);
 @import url(../blocks/lead/lead.css);
+@import url(../blocks/intro/intro.css);
