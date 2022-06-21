@@ -1,0 +1,48 @@
+.cover {
+  margin: 0 auto 92px auto;
+  position: relative;
+  display: grid;
+  grid-template-rows: repeat(2, min-content);
+  gap: 32px;
+  max-width: 100%;
+}
+.cover:before {
+  content: '';
+  width: 100%;
+  min-height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #2A2C2F;
+  opacity: .3;
+  transition: .3s linear;
+}
+.cover:hover::before {
+  opacity: 0.8;
+}
+@media screen and (max-width:768px){
+  .cover{
+    margin: 0 auto 88px auto;
+    gap: 16px;
+  }
+}
+@media  screen and (max-width: 650px){
+  .cover{
+    margin: 0 auto 80px auto;
+  }
+}
+@media screen and (max-width:576px){
+  .cover{
+    margin: 0 auto 74px auto;
+  }
+}
+@media screen and (max-width: 425px){
+  .cover{
+    margin: 64px auto;
+  }
+}
+@media screen and (max-width:320px){
+  .cover{
+    margin: 66px auto 64px auto;
+  }
+}

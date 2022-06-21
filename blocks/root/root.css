@@ -1,0 +1,9 @@
+.root{
+  background-color: #2A2C2F;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-family: inter, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

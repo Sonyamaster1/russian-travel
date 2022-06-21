@@ -1,0 +1,38 @@
+.footer__link{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.1;
+  color: #fff;
+  text-decoration: none;
+  margin: 0 18px 0 0;
+  padding: 0;
+  text-align: left;
+  transition: opacity 0.3s linear;
+}
+.footer__link:last-of-type{
+  margin: 0;
+}
+.footer__link:hover{
+ opacity: 0.8;
+ cursor: pointer;
+}
+@media screen and (max-width:576px){
+  .footer__link{
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 425px){
+  .footer__link{
+    font-size: 24px;
+    line-height: 1;
+    margin: 0 0 32px 0;
+  }
+  .footer__link:last-of-type{
+    margin-bottom: 42px;
+  }
+}
+@media screen and (max-width:320px){
+  .footer__link{
+    max-width: 288px;
+  }
+}

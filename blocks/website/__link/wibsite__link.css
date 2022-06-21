@@ -1,0 +1,19 @@
+.website__link{
+  text-decoration: none;
+  border-bottom: 1px solid white;
+  color: #fff;
+  text-align: left;
+  transition: opacity 0.3s linear;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.2;
+}
+.website__link:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
+@media screen and (max-width:576px){
+  .website__link{
+    font-size: 16px;
+  }
+}
