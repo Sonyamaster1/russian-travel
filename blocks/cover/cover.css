@@ -1,5 +1,4 @@
 .cover {
-  margin: 0 auto 92px auto;
   position: relative;
   display: grid;
   grid-template-rows: repeat(2, min-content);
@@ -22,27 +21,6 @@
 }
 @media screen and (max-width:768px){
   .cover{
-    margin: 0 auto 88px auto;
     gap: 16px;
-  }
-}
-@media  screen and (max-width: 650px){
-  .cover{
-    margin: 0 auto 80px auto;
-  }
-}
-@media screen and (max-width:576px){
-  .cover{
-    margin: 0 auto 74px auto;
-  }
-}
-@media screen and (max-width: 425px){
-  .cover{
-    margin: 64px auto;
-  }
-}
-@media screen and (max-width:320px){
-  .cover{
-    margin: 66px auto 64px auto;
   }
 }

@@ -1,0 +1,31 @@
+.cover_section{
+  margin-top: 0;
+  margin-bottom: 92px;
+}
+@media screen and (max-width:768px){
+  .cover_section{
+    margin-bottom: 88px;
+  }
+}
+@media  screen and (max-width: 650px){
+  .cover_section{
+    margin-bottom: 80px;
+  }
+}
+@media screen and (max-width:576px){
+  .cover_section{
+    margin-bottom: 74px;
+  }
+}
+@media screen and (max-width: 425px){
+  .cover_section{
+    margin-top: 64px;
+    margin-bottom: 64px;
+  }
+}
+@media screen and (max-width:320px){
+  .cover_section{
+    margin-top: 66px;
+    margin-bottom: 64px;
+  }
+}

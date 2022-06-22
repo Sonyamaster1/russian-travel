@@ -1,23 +1,5 @@
-.places{
-  margin: 0 auto 92px auto;
-}
 @media screen and (max-width: 1100px){
   .places{
     max-width: 100%;
-  }
-}
-@media screen and (max-width:768px){
-  .places{
-    margin: 0 auto 90px auto;
-  }
-}
-@media  screen and (max-width: 650px){
-  .places{
-    margin: 0 auto 80px auto;
-  }
-}
-@media screen and (max-width:576px){
-  .places{
-    margin: 0 auto 74px auto;
   }
 }
