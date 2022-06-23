@@ -10,18 +10,18 @@
   z-index: 1;
   justify-self: center;
 }
-@media screen and (max-width:576px){
+@media (max-width:576px){
   .cover__subtitle{
     max-width: 320px;
   }
 }
-@media screen and (max-width: 425px){
+@media (max-width: 425px){
   .cover__subtitle{
     font-size: 16px;
     max-width: 380px;
   }
 }
-@media screen and (max-width:320px){
+@media (max-width:320px){
   .cover__subtitle{
     font-size: 14px;
     max-width: 288px;

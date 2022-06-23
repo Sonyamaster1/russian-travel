@@ -3,7 +3,7 @@
   justify-content: flex-start;
   align-items: flex-end;
 }
-@media screen and (max-width: 425px){
+@media (max-width: 425px){
   .footer__links{
     flex-direction: column;
     align-items: flex-start;

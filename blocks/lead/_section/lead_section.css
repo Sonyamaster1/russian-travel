@@ -1,8 +1,21 @@
 .lead_section{
   margin-top: 56px;
+  padding: 0 148px;
+  max-width: calc(984px + 96px);
 }
-@media screen and (max-width: 1024px){
+@media (max-width: 1100px){
+  .lead_section{
+    padding: 0 58px;
+  }
+}
+@media (max-width: 1024px){
   .lead_section{
     margin-top: 48px;
+    padding: 0 48px;
   }
+}
+@media (max-width: 768px){
+  .lead_section{
+   padding: 0;
+}
 }

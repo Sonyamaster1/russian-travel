@@ -13,12 +13,12 @@
   opacity: 0.8;
   cursor: pointer;
  }
- @media  screen and (max-width: 650px){
+ @media (max-width: 650px){
   .header__lang-link{
     font-size: 22px;
   }
  }
- @media screen and (max-width: 425px){
+ @media (max-width: 425px){
   .header__lang-link{
     font-size: 18px;
     line-height: 1.1;

@@ -11,30 +11,30 @@
   justify-self: center;
   align-self: end;
 }
-@media screen and (max-width:768px){
+@media (max-width:768px){
   .cover__title{
     margin: 0 auto 32px auto;
   }
 }
-@media  screen and (max-width: 650px){
+@media (max-width: 650px){
   .cover__title{
     font-size: 68px;
     max-width: 550px;
   }
 }
-@media screen and (max-width:576px){
+@media (max-width:576px){
   .cover__title{
     font-size: 62px;
   }
 }
-@media screen and (max-width: 425px){
+@media (max-width: 425px){
   .cover__title{
     font-size: 34px;
     margin: 0 0 16px 0;
     max-width: 300px;
   }
 }
-@media screen and (max-width:320px){
+@media (max-width:320px){
   .cover__title{
     font-size: 32px;
     max-width: 288px;

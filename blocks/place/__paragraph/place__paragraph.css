@@ -10,7 +10,7 @@
   grid-row-start: 3;
   grid-column: 2/3;
 }
-@media screen and (max-width:768px){
+@media (max-width:768px){
   .place__paragraph{
     font-size: 16px;
   }
@@ -18,17 +18,17 @@
     margin-top: 25px;
   }
 }
-@media  screen and (max-width: 650px){
+@media (max-width: 650px){
   .place__paragraph{
     font-size: 14px;
   }
 }
-@media screen and (max-width:576px){
+@media (max-width:576px){
   .place__paragraph:nth-of-type(2){
     margin-top: 20px;
   }
 }
-@media screen and (max-width: 425px){
+@media (max-width: 425px){
   .place__paragraph{
     font-size: 16px;
     margin: 0;

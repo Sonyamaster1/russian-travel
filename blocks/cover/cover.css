@@ -19,7 +19,7 @@
 .cover:hover::before {
   opacity: 0.8;
 }
-@media screen and (max-width:768px){
+@media (max-width:768px){
   .cover{
     gap: 16px;
   }

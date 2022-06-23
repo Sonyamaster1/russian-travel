@@ -7,32 +7,32 @@
   padding: 0;
   max-width: 640px;
 }
-@media screen and (max-width: 1024px){
+@media (max-width: 1024px){
   .lead__subtitle{
     margin: 0 auto 56px auto;
   }
 }
-@media  screen and (max-width: 650px){
+@media (max-width: 650px){
   .lead__subtitle{
     font-size: 28px;
     max-width: 100%;
     margin: 0 auto 52px auto;
   }
 }
-@media screen and (max-width:576px){
+@media (max-width:576px){
   .lead__subtitle{
     font-size: 25px;
     margin: 0 auto 48px auto;
   }
 }
-@media screen and (max-width: 425px){
+@media (max-width: 425px){
   .lead__subtitle{
     font-size: 18px;
     max-width: 380px;
     margin: 0 auto 44px auto;
   }
 }
-@media screen and (max-width:320px){
+@media (max-width:320px){
   .lead__subtitle{
     font-size: 16px;
     margin: 0 auto 40px auto;

@@ -2,13 +2,13 @@
   width: 176px;
   height: 52px;
 }
-@media screen and (max-width: 425px){
+@media (max-width: 425px){
   .header__logo{
     width: 150px;
     height: 46px;
   }
 }
-@media screen and (max-width:320px){
+@media (max-width:320px){
   .header__logo{
     width: 142px;
     height: 42px;
