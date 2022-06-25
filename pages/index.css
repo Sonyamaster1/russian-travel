@@ -39,7 +39,7 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/places/places.css);
-@import url(../blocks/header/__lang-links/_item/header__lang-links_item.css);
+@import url(../blocks/header/__lang-link/_item/header__lang-link_item.css);
 @import url(../blocks/cover/_theme/cover_theme_position.css);
 @import url(../blocks/intro/_theme/intro_theme_position.css);
 @import url(../blocks/lead/_theme/lead_theme_position.css);
