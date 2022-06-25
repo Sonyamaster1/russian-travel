@@ -1,5 +1,6 @@
-.header__lang-links{
+.header__items{
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
+  padding: 0;
 }
