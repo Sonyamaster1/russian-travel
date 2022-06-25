@@ -9,10 +9,15 @@
   margin: 0;
   padding: 0;
 }
+@media (max-width: 650px){
+  .footer__copyright{
+    font-size: 12px;
+  }
+}
 @media (max-width: 425px){
   .footer__copyright{
     text-align: left;
-    max-width: 186px;
+    font-size: 14px;
   }
 }
 @media (max-width:320px){

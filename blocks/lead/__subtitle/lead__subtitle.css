@@ -14,9 +14,7 @@
 }
 @media (max-width: 650px){
   .lead__subtitle{
-    font-size: 28px;
     max-width: 100%;
-    margin: 0 auto 52px auto;
   }
 }
 @media (max-width:576px){
@@ -27,9 +25,7 @@
 }
 @media (max-width: 425px){
   .lead__subtitle{
-    font-size: 18px;
     max-width: 380px;
-    margin: 0 auto 44px auto;
   }
 }
 @media (max-width:320px){

@@ -6,18 +6,3 @@
   padding: 0;
   max-width: 690px;
 }
-@media (max-width: 650px){
-  .intro__text{
-    margin: 0 auto 28px auto;
-  }
-}
-@media (max-width: 425px){
-  .intro__text{
-    margin: 0 0 36px 0;
-    }
-}
-@media (max-width:320px){
-  .intro__text{
-    margin: 0 auto 34px auto;
-  }
-}

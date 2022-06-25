@@ -1,31 +1,31 @@
-.places_section{
+.places_theme_position {
   margin-top: 0;
   margin-bottom: 92px;
   padding: 0 148px;
 }
 @media (max-width: 1024px){
-  .places_section{
+  .places_theme_position{
     padding: 0 48px;
   }
 }
 @media (max-width:768px){
-  .places_section{
+  .places_theme_position{
     margin-bottom: 90px;
     padding: 0 24px;
   }
 }
 @media (max-width: 650px){
-  .places_section{
+  .places_theme_position{
     margin-bottom: 80px;
   }
 }
 @media (max-width:576px){
-  .places_section{
+  .places_theme_position{
     margin-bottom: 74px;
   }
 }
 @media (max-width:320px){
-  .places_section{
+  .places_theme_position{
     padding: 0;
   }
 }

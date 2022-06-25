@@ -5,6 +5,12 @@
   text-align: center;
   margin: 0 auto 32px auto;
   padding: 0;
+  max-width: 720px;
+}
+@media (max-width:700px) {
+.lead__title{
+  font-size: 80px;
+}
 }
 @media (max-width: 650px){
   .lead__title{
@@ -12,9 +18,9 @@
     max-width: 100%;
   }
 }
-@media (max-width:576px){
+@media (max-width: 576px){
   .lead__title{
-    font-size: 72px;
+    font-size: 56px;
   }
 }
 @media (max-width: 425px){
@@ -29,6 +35,5 @@
   .lead__title{
     font-size: 40px;
     max-width: 288px;
-    min-height: 70px;
   }
 }

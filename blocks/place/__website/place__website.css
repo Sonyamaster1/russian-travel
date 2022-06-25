@@ -20,19 +20,18 @@
 }
 @media (max-width: 650px){
   .place__website{
-    max-width: 296px;
+    max-width: 602px;
+    grid-area: url;
   }
 }
 @media (max-width:576px){
   .place__website{
-    max-width: 260px;
+    max-width: 528px;
   }
 }
 @media (max-width: 425px){
   .place__website{
     max-width: 100%;
-    margin: 0;
-    grid-area: url;
   }
 }
 @media (max-width:320px){

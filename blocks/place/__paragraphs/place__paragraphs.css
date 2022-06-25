@@ -25,19 +25,19 @@
 }
 @media (max-width: 650px){
   .place__paragraphs{
-    max-width: 296px;
+    max-width: 602px;
+    grid-area: text;
   }
 }
 @media (max-width:576px){
   .place__paragraphs{
-    max-width: 260px;
+    max-width: 528px;
   }
 }
 @media (max-width: 425px){
   .place__paragraphs{
     max-width: 100%;
     margin: 0 auto;
-    grid-area: text;
   }
 }
 @media (max-width:320px){

@@ -34,21 +34,19 @@
 }
 @media (max-width: 650px){
   .place__image{
-    width: 278px;
-    height: 278px;
+    grid-area: image;
   }
 }
 @media (max-width:576px){
   .place__image{
-    width: 240px;
-    height: 235px;
+    width: 377px;
+    height: 377px;
   }
 }
 @media (max-width: 425px){
   .place__image{
-    width: 377px;
-    height: 377px;
-    grid-area: image;
+    width: 100%;
+    height: 357px;
   }
 }
 @media (max-width:320px){
