@@ -1,13 +1,13 @@
-.page__item{
+.page__item {
   padding: 0 48px;
 }
-@media (max-width:768px){
-  .page__item{
+@media (max-width: 768px) {
+  .page__item {
     padding: 0 24px;
   }
 }
-@media (max-width:320px){
-  .page__item{
+@media (max-width: 320px) {
+  .page__item {
     padding: 0 16px;
   }
 }

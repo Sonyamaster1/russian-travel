@@ -1,5 +1,12 @@
-.header__item{
-  margin: 0;
+.header__item {
+  margin: 0 18px 0 0;
   padding: 0;
   list-style-type: none;
+}
+.header__item:last-of-type {
+  margin-right: 0;
+}
+.header__item:hover {
+  opacity: 0.8;
+  cursor: pointer;
 }

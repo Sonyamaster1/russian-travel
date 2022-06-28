@@ -1,12 +1,12 @@
-.footer__items{
+.footer__items {
   margin: 0;
   padding: 0;
   display: flex;
   justify-content: flex-start;
   align-items: flex-end;
 }
-@media (max-width: 576px){
-  .footer__items{
+@media (max-width: 576px) {
+  .footer__items {
     flex-direction: column;
     align-items: flex-start;
   }

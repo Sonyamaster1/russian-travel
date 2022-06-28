@@ -3,29 +3,19 @@
   margin-bottom: 92px;
   padding: 0 48px;
 }
-@media screen and (max-width:1024px){
-  .cover_theme_position{
+@media (max-width: 1024px) {
+  .cover_theme_position {
     padding: 0;
   }
 }
-@media screen and (max-width:768px){
-  .cover_theme_position{
+@media (max-width: 768px) {
+  .cover_theme_position {
     margin-bottom: 88px;
   }
 }
-@media (max-width: 650px){
-  .cover_theme_position{
-    margin-bottom: 80px;
-  }
-}
-@media (max-width:576px){
-  .cover_theme_position{
-    margin-bottom: 74px;
-  }
-}
-@media (max-width: 425px){
-  .cover_theme_position{
-    margin-top: 64px;
+@media (max-width: 320px) {
+  .cover_theme_position {
+    margin-top: 66px;
     margin-bottom: 64px;
   }
 }

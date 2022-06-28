@@ -3,37 +3,17 @@
   margin-bottom: 92px;
   padding: 0 48px;
 }
-@media (max-width:896px){
-  .photo-grid_theme_position{
+@media (max-width: 768px) {
+  .photo-grid_theme_position {
+    padding: 0 24px;
     margin-top: 88px;
     margin-bottom: 88px;
   }
 }
-@media (max-width: 768px){
-  .photo-grid_theme_position{
-    padding: 0 24px;
-  }
-  }
-@media (max-width: 650px){
-  .photo-grid_theme_position{
-    margin-top: 80px;
-    margin-bottom: 80px;
-  }
-}
-@media (max-width:576px){
-  .photo-grid_theme_position{
-    margin-top: 74px;
-    margin-bottom: 74px;
-  }
-}
-@media (max-width: 425px){
-  .photo-grid_theme_position{
+@media (max-width: 320px) {
+  .photo-grid_theme_position {
+    padding: 0 16px;
     margin-top: 64px;
     margin-bottom: 64px;
   }
 }
-@media (max-width: 320px){
-  .photo-grid_theme_position{
-    padding: 0 16px;
-  }
-  }

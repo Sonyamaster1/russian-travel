@@ -1,15 +1,15 @@
-.header__logo{
+.header__logo {
   width: 176px;
   height: 52px;
 }
-@media (max-width: 425px){
-  .header__logo{
+@media (max-width: 425px) {
+  .header__logo {
     width: 150px;
     height: 46px;
   }
 }
-@media (max-width:320px){
-  .header__logo{
+@media (max-width: 320px) {
+  .header__logo {
     width: 142px;
     height: 42px;
   }

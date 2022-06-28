@@ -1,17 +1,17 @@
-.place__paragraph{
+.place__paragraph {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.6;
   margin: 0;
   padding: 0;
 }
-.place__paragraph:nth-of-type(2){
+.place__paragraph:nth-of-type(2) {
   margin-top: 26px;
   grid-row-start: 3;
   grid-column: 2/3;
 }
-@media (max-width:768px){
-  .place__paragraph{
+@media (max-width: 768px) {
+  .place__paragraph {
     font-size: 16px;
   }
 }

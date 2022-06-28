@@ -3,19 +3,19 @@
   padding: 0 148px;
   max-width: calc(984px + 96px);
 }
-@media (max-width: 1100px){
-  .lead_theme_position{
+@media (max-width: 1100px) {
+  .lead_theme_position {
     padding: 0 58px;
   }
 }
-@media (max-width: 1024px){
-  .lead_theme_position{
+@media (max-width: 1024px) {
+  .lead_theme_position {
     margin-top: 48px;
     padding: 0 48px;
   }
 }
-@media (max-width: 768px){
-  .lead_theme_position{
-   padding: 0;
-}
+@media (max-width: 768px) {
+  .lead_theme_position {
+    padding: 0;
+  }
 }

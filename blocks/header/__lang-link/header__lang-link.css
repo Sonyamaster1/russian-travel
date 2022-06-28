@@ -1,4 +1,4 @@
-.header__lang-link{
+.header__lang-link {
   color: #fff;
   text-decoration: none;
   text-align: right;
@@ -9,21 +9,14 @@
   margin: 0;
   padding: 0;
 }
-.header__lang-link:nth-of-type(1){
-  margin-right: 18px;
-}
-.header__lang-link:hover{
-  opacity: 0.8;
-  cursor: pointer;
- }
- @media (max-width: 650px){
-  .header__lang-link{
+@media (max-width: 650px) {
+  .header__lang-link {
     font-size: 22px;
   }
- }
- @media (max-width: 425px){
-  .header__lang-link{
+}
+@media (max-width: 425px) {
+  .header__lang-link {
     font-size: 18px;
     line-height: 1.1;
   }
- }
+}
